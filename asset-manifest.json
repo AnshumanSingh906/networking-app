@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/networking-app/static/css/main.61685a60.css",
-    "main.js": "/networking-app/static/js/main.69e51bf4.js",
+    "main.js": "/networking-app/static/js/main.da3ced15.js",
     "static/js/787.28cb0dcd.chunk.js": "/networking-app/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/networking-app/index.html",
     "main.61685a60.css.map": "/networking-app/static/css/main.61685a60.css.map",
-    "main.69e51bf4.js.map": "/networking-app/static/js/main.69e51bf4.js.map",
+    "main.da3ced15.js.map": "/networking-app/static/js/main.da3ced15.js.map",
     "787.28cb0dcd.chunk.js.map": "/networking-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61685a60.css",
-    "static/js/main.69e51bf4.js"
+    "static/js/main.da3ced15.js"
   ]
 }
